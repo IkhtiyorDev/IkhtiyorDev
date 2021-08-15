@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Ikhtiyor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkhtiyorDev&show_icons=true&theme=radical)
+![Ikhtiyor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkhtiyorDev&show_icons=true&theme=graywhite)
 
 
 <!--
