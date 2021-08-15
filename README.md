@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkhtiyorDev&layout=compact)](https://github.com/IkhtiyorDev/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkhtiyorDev&langs_count=8)](https://github.com/IkhtiyorDev/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkhtiyorDev&langs_count=8)](https://github.com/IkhtiyorDev/github-readme-stats) -->
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IkhtiyorDev)](https://github.com/IkhtiyorDev/github-readme-stats)
 
