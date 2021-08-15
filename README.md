@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkhtiyorDev&langs_count=8)](https://github.com/IkhtiyorDev/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IkhtiyorDev&repo=github-readme-stats)](https://github.com/IkhtiyorDev/github-readme-stats)
+[![Ikhtiyor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IkhtiyorDev)](https://github.com/IkhtiyorDev/github-readme-stats)
 
 
 <!--
