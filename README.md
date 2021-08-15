@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Ikhtiyor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkhtiyorDev&show_icons=true&theme=radical)
+
+
 <!--
 **IkhtiyorDev/IkhtiyorDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
