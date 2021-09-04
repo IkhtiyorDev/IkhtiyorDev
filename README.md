@@ -48,11 +48,11 @@ Here are some ideas to get you started:
 </br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikhtiyordev&show_icons=true&locale=en&layout=compact" alt="ikhtiyordev" /></p>
 
-</br>
+<!-- </br>
 
 ![Ikhtiyor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkhtiyorDev&show_icons=true&theme=graywhite)
 
-</br>
+</br> -->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IkhtiyorDev)](https://github.com/IkhtiyorDev/github-readme-stats) -->
 
